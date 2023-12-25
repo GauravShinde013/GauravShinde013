@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravShinde013
-- 👀 I’m interested in MicroServices, Angular and React Projects
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence
+- 👀 I have experience in MicroServices, Angular and React Projects
+- 🌱 I’m currently mastering Machine Learning and Artificial Intelligence
 - 📫 How to reach me at shindegaurav013@gmail.com
 
 <!---
