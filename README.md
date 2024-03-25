@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GauravShinde013
-- 👀 I have experience in MicroServices, Angular and React Projects
 - 🌱 I’m currently mastering Machine Learning and Artificial Intelligence
-- 📫 How to reach me at shindegaurav013@gmail.com
+- I am developing my skills in NLP, computer vision and deep learning technologies through hands on projects
 
 <!---
 GauravShinde013/GauravShinde013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
